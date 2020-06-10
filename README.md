@@ -1,3 +1,3 @@
-## Tic toc toe
+# Tic toc toe
 
-### my first real app in React Js
+### My first real app in React Js, clone or donwload and enjoy it.
