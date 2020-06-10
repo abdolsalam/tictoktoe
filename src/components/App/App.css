@@ -1,0 +1,22 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.App .Header {
+  font-size: 100px;
+  font-weight: bolder;
+  margin-top: -50px;
+  margin-bottom: 50px;
+  text-shadow: 2px 2px 8px #FF0000;
+}
+
+.App .Footer{
+  font-size: 30px;
+  font-weight: bolder;
+  margin-top: 50px;
+  text-shadow: 2px 2px 8px #FF0000;
+}
